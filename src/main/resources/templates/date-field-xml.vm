@@ -1,2 +1,0 @@
-#disable_html_escaping()
-<customfieldvalue>$dates.formatRSS($!value)</customfieldvalue>
